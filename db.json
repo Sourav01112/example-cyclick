@@ -6,7 +6,8 @@
             "category": "Women T-Shirts",
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_7656563.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_2940824.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_2940824.jpg",
+            "amount" : 1
         },
         {
             "id": 2,
@@ -14,7 +15,9 @@
             "category": "Women Boyfriend Shirts",
             "price": 1199,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
+            "amount" : 1
+            
         },
         {
             "id": 3,
@@ -22,7 +25,8 @@
             "category": "Women Oversized T-Shirts",
             "price": 699,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
+            "amount" : 1
         },
         {
             "id": 4,
@@ -30,7 +34,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
+            "amount" : 1
         },
         {
             "id": 5,
@@ -38,7 +43,8 @@
             "category": "Women Lounge Bralette",
             "price": 299,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677907704_5045637.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676728343_4493841.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676728343_4493841.jpg",
+            "amount" : 1
         },
         {
             "id": 6,
@@ -46,7 +52,8 @@
             "category": "Women Knit Pants",
             "price": 1099,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_1324393.jpg",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4",
+            "amount" : 1
         },
         {
             "id": 7,
@@ -54,7 +61,8 @@
             "category": "Women Flared Pants",
             "price": 1499,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
+            "amount" : 1
         },
         {
             "id": 8,
@@ -62,7 +70,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 9,
@@ -70,7 +79,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 10,
@@ -78,7 +88,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 11,
@@ -86,7 +97,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 12,
@@ -94,7 +106,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 13,
@@ -102,7 +115,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 14,
@@ -110,7 +124,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 15,
@@ -118,7 +133,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 16,
@@ -126,7 +142,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 17,
@@ -134,7 +151,8 @@
             "category": "Women T-Shirts",
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_7656563.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_2940824.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_2940824.jpg",
+            "amount" : 1
         },
         {
             "id": 18,
@@ -142,7 +160,8 @@
             "category": "Women Boyfriend Shirts",
             "price": 1199,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
+            "amount" : 1
         },
         {
             "id": 19,
@@ -150,7 +169,8 @@
             "category": "Women Oversized T-Shirts",
             "price": 699,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
+            "amount" : 1
         },
         {
             "id": 20,
@@ -158,7 +178,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
+            "amount" : 1
         },
         {
             "id": 21,
@@ -166,7 +187,8 @@
             "category": "Women Lounge Bralette",
             "price": 299,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677907704_5045637.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676728343_4493841.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676728343_4493841.jpg",
+            "amount" : 1
         },
         {
             "id": 22,
@@ -174,7 +196,8 @@
             "category": "Women Knit Pants",
             "price": 1099,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_1324393.jpg",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4",
+            "amount" : 1
         },
         {
             "id": 23,
@@ -182,7 +205,8 @@
             "category": "Women Flared Pants",
             "price": 1499,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
-            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg"
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
+            "amount" : 1
         },
         {
             "id": 24,
@@ -190,7 +214,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 25,
@@ -198,7 +223,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 26,
@@ -206,7 +232,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 27,
@@ -214,7 +241,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 28,
@@ -222,7 +250,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 29,
@@ -230,7 +259,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 30,
@@ -238,7 +268,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         },
         {
             "id": 31,
@@ -246,7 +277,8 @@
             "category": "Women Oversized Cropped T-Shirts",
             "price": 599,
             "image": "",
-            "hover_image": ""
+            "hover_image": "",
+            "amount" : 1
         }
     ]
 }
