@@ -279,6 +279,69 @@
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
             "amount" : 1
+        },
+        {
+            "id": 32,
+            "name": "Solid:Black",
+            "category": "Women Knit Pants",
+            "price": 1099,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_1324393.jpg",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4",
+            "amount" : 1
+        },
+        {
+            "id": 33,
+            "name": "Solids:Azure Blue",
+            "category": "Women Flared Pants",
+            "price": 1499,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
+            "amount" : 1
+        },
+        {
+            "id": 34,
+            "name": "Powerpuff Girls:Cute Bubbles",
+            "category": "Women Oversized Cropped T-Shirts",
+            "price": 599,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
+            "amount" : 1
+        },
+        {
+            "id": 35,
+            "name": "Powerpuff Girls:Cute Bubbles",
+            "category": "Women Oversized Cropped T-Shirts",
+            "price": 599,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
+            "amount" : 1
+        },
+        {
+            "id": 36,
+            "name": "Powerpuff Girls:Cute Bubbles",
+            "category": "Women Oversized Cropped T-Shirts",
+            "price": 599,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
+            "amount" : 1
+        },
+        {
+            "id": 37,
+            "name": "Powerpuff Girls:Cute Bubbles",
+            "category": "Women Oversized Cropped T-Shirts",
+            "price": 599,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
+            "amount" : 1
+        },
+        {
+            "id": 38,
+            "name": "Powerpuff Girls:Cute Bubbles",
+            "category": "Women Oversized Cropped T-Shirts",
+            "price": 599,
+            "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
+            "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
+            "amount" : 1
         }
         
     ]
