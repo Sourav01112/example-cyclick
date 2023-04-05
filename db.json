@@ -7,7 +7,9 @@
             "price": 379,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_7656563.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_2940824.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 5
         },
         {
             "id": 2,
@@ -16,8 +18,9 @@
             "price": 1199,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
-            "amount" : 1
-            
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 3,
@@ -26,7 +29,9 @@
             "price": 699,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 3
         },
         {
             "id": 4,
@@ -35,7 +40,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 2
         },
         {
             "id": 5,
@@ -44,7 +51,9 @@
             "price": 299,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677907704_5045637.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676728343_4493841.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 1
         },
         {
             "id": 6,
@@ -53,7 +62,9 @@
             "price": 1099,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_1324393.jpg",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 1
         },
         {
             "id": 7,
@@ -62,7 +73,9 @@
             "price": 1499,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 5
         },
         {
             "id": 8,
@@ -71,7 +84,9 @@
             "price": 789,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 9,
@@ -80,7 +95,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 1
         },
         {
             "id": 10,
@@ -89,7 +106,9 @@
             "price": 469,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 11,
@@ -98,7 +117,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 12,
@@ -107,7 +128,9 @@
             "price": 689,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 13,
@@ -116,7 +139,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 14,
@@ -125,7 +150,9 @@
             "price": 749,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 5
         },
         {
             "id": 15,
@@ -134,7 +161,9 @@
             "price": 689,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 16,
@@ -143,7 +172,9 @@
             "price": 529,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 2
         },
         {
             "id": 17,
@@ -152,7 +183,9 @@
             "price": 499,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_7656563.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678710294_2940824.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 3
         },
         {
             "id": 18,
@@ -161,7 +194,9 @@
             "price": 1199,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 19,
@@ -170,7 +205,9 @@
             "price": 699,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 5
         },
         {
             "id": 20,
@@ -179,7 +216,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 21,
@@ -188,7 +227,9 @@
             "price": 299,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677907704_5045637.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1676728343_4493841.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 2
         },
         {
             "id": 22,
@@ -197,7 +238,9 @@
             "price": 1099,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_1324393.jpg",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 3
         },
         {
             "id": 23,
@@ -206,7 +249,9 @@
             "price": 1499,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 5
         },
         {
             "id": 24,
@@ -215,7 +260,9 @@
             "price": 799,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 25,
@@ -224,7 +271,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 26,
@@ -233,7 +282,9 @@
             "price": 399,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 2
         },
         {
             "id": 27,
@@ -242,7 +293,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 3
         },
         {
             "id": 28,
@@ -251,7 +304,9 @@
             "price": 999,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 29,
@@ -260,7 +315,9 @@
             "price": 899,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_4780075.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1677847259_2564678.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 30,
@@ -269,7 +326,9 @@
             "price": 699,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 31,
@@ -278,7 +337,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 32,
@@ -287,7 +348,9 @@
             "price": 1099,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_1324393.jpg",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678780624_2276281.jpg?format=webp&w=300&dpr=1.4",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 33,
@@ -296,7 +359,9 @@
             "price": 1499,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 167,
+            "ratings": 5
         },
         {
             "id": 34,
@@ -305,7 +370,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 14,
+            "ratings": 4.5
         },
         {
             "id": 35,
@@ -314,7 +381,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_2322526.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679739318_6384011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 10,
+            "ratings": 4
         },
         {
             "id": 36,
@@ -323,7 +392,9 @@
             "price": 799,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 13,
+            "ratings": 3.5
         },
         {
             "id": 37,
@@ -332,7 +403,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_7205414.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1679745664_3419666.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 45,
+            "ratings": 3
         },
         {
             "id": 38,
@@ -341,8 +414,9 @@
             "price": 599,
             "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_6943151.jpg?format=webp&w=300&dpr=1.4",
             "hover_image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1678796964_4787011.jpg",
-            "amount" : 1
+            "amount": 1,
+            "inStock": 18,
+            "ratings": 2
         }
-        
     ]
 }
